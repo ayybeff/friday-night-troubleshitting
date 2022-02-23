@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="virusBop.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="virus anim0000" x="0" y="0" width="914" height="849" frameX="-15" frameY="0" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0001" x="0" y="0" width="914" height="849" frameX="-15" frameY="0" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0002" x="914" y="0" width="928" height="833" frameX="-2" frameY="-17" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0003" x="914" y="0" width="928" height="833" frameX="-2" frameY="-17" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0004" x="1842" y="0" width="930" height="835" frameX="0" frameY="-15" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0005" x="1842" y="0" width="930" height="835" frameX="0" frameY="-15" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0006" x="2772" y="0" width="928" height="842" frameX="-2" frameY="-8" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0007" x="2772" y="0" width="928" height="842" frameX="-2" frameY="-8" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0008" x="0" y="849" width="928" height="846" frameX="-2" frameY="-4" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0009" x="0" y="849" width="928" height="846" frameX="-2" frameY="-4" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0010" x="0" y="849" width="928" height="846" frameX="-2" frameY="-4" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0011" x="0" y="849" width="928" height="846" frameX="-2" frameY="-4" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0012" x="0" y="849" width="928" height="846" frameX="-2" frameY="-4" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0013" x="0" y="849" width="928" height="846" frameX="-2" frameY="-4" frameWidth="930" frameHeight="850"/>
+	<SubTexture name="virus anim0014" x="0" y="849" width="928" height="846" frameX="-2" frameY="-4" frameWidth="930" frameHeight="850"/>
+</TextureAtlas>
